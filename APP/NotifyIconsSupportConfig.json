@@ -344,7 +344,7 @@
     "contributorName": "NekoMua",
     "isEnabled": true,
     "isEnabledAll": true
-  }
+  },
   {
     "appName": "NFC服务",
     "packageName": "com.android.nfc",
@@ -5077,7 +5077,7 @@
     "contributorName": "FEC_Sky",
     "isEnabled": true,
     "isEnabledAll": false
-  }
+  },
   {
     "appName": "光",
     "packageName": "com.lite.tjlanxin",
